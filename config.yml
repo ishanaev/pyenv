@@ -1,0 +1,16 @@
+dist:
+  python:
+    url: https://www.python.org/ftp/python/3.11.7/Python-3.11.7.tar.xz
+    dist:
+  pyenv:
+    url: https://github.com/pyenv/pyenv/archive/refs/tags/v2.3.35.zip
+    file:
+  pydoctor:
+    url:
+    file:
+  pyupdate:
+    url:
+    file:
+  pyvirtualenv:
+    url: https://github.com/pyenv/pyenv-virtualenv/archive/refs/tags/v1.2.2.zip
+    file:
